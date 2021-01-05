@@ -1,0 +1,14 @@
+h= 'h'
+e= 'e'
+l= 'l'
+l2= 'l'
+o= 'o'
+space= ' '
+w= 'w'
+o2= 'o'
+r= 'r'
+l3= 'l'
+d= 'd'
+helloworld=[h,e,l,l2,o,space,w,o2,r,l3,d]
+for i in helloworld:
+  print(i)
